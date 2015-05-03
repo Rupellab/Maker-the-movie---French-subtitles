@@ -3526,182 +3526,182 @@ il faut produire énormément.
 
 762
 00:44:02,360 --> 00:44:04,400
-The change that's going on today
+Le changement qui est en train de se faire
 
 763
 00:44:04,400 --> 00:44:07,480
-is we can now make things
-of really high quality –
+c'est que maintenant, on peut faire des choses
+de très bonne qualité –
 
 764
 00:44:07,480 --> 00:44:10,600
-at low volume at reasonable cost.
+en petite quantité, à un coût raisonnable.
 
 765
 00:44:11,040 --> 00:44:14,440
-You know I've been making things
-for 40 years or so.
+Vous savez, je fabrique des choses
+depuis à peu près 40 ans.
 
 766
 00:44:14,440 --> 00:44:15,680
-I'm a little bit of both.
+Je suis un peu des deux.
 
 767
 00:44:15,680 --> 00:44:18,480
-I'm both the CEO,
-I'm the CEO of autodesk,
+Je suis à la fois le PDG,
+le PDG d'Autodesk,
 
 768
 00:44:18,480 --> 00:44:20,000
-and I'm also a maker.
+et je suis aussi un maker.
 
 769
 00:44:20,800 --> 00:44:23,280
-You know for many years
-I kept them separate.
+Vous savez, pendant des années,
+j'ai gardé ces deux aspects séparés.
 
 770
 00:44:23,280 --> 00:44:27,440
-Ten years ago I realized the two worlds
-were coming together on both sides.
+Il y a 10 ans, j'ai réalisé que les deux mondes
+étaient sur le point de se rencontrer.
 
 771
 00:44:27,440 --> 00:44:31,960
-One is the software we were making
-was being used more and more for makers,
+D'un côté, les logiciels que nous faisions
+étaient de plus en plus utilisés par les makers,
 
 772
 00:44:31,960 --> 00:44:33,600
-and on the other side I found out
+et de l'autre côté, j'ai remarqué que
 
 773
 00:44:33,600 --> 00:44:36,120
-that in my personal work
-I started to use software.
+dans mon travail personnel,
+j'ai commencé à utiliser ces logiciels.
 
 774
 00:44:36,120 --> 00:44:38,480
-In the design, in the engineering,
+Dans le design, l'ingénierie,
 
 775
 00:44:38,480 --> 00:44:40,560
-and nowadays even in the fabrication.
+et de nos jours même dans la fabrication.
 
 776
 00:44:45,480 --> 00:44:47,440
-Oh, here's one of the things
-I made a lot of.
+Oh, il y a une chose que
+j'ai beaucoup fabriqué.
 
 777
 00:44:48,440 --> 00:44:50,280
-I made a lot of baseball bats.
+J'ai fait beaucoup de battes de baseball.
 
 778
 00:44:50,280 --> 00:44:52,720
-So I made these with my kids.
+Je les ai faites avec mes enfants.
 
 779
 00:44:53,480 --> 00:44:57,320
-But the whole story started out
-with this wood that I bought in,
+Mais l'histoire a commencé
+avec ce bois que j'avais acheté.
 
 780
 00:44:57,320 --> 00:44:58,760
-I bought it in Oregon.
+Je l'ai acheté dans l'Oregon.
 
 781
 00:44:58,760 --> 00:45:03,000
-The thing about wood particularly
-as opposed to the work I do with metal,
+Le point spécifique du bois,
+contrairement au métal,
 
 782
 00:45:03,000 --> 00:45:04,120
-like with metal,
+c'est qu'avec le métal,
 
 783
 00:45:04,120 --> 00:45:07,960
-I can go to bronze or aluminum
-or steel any time I want.
+Je peux changer du bronze à l'aluminium
+ou à l'argent quand je veux.
 
 784
 00:45:07,960 --> 00:45:09,840
-You just go buy the metal
-when you need it.
+Il y a juste à acheter le métal,
+quand il y en a besoin.
 
 785
 00:45:09,840 --> 00:45:12,720
-Wood is different you know,
-each piece is kind of unique.
+Le bois est différent, vous savez,
+chaque pièce est un peu unique.
 
 786
 00:45:12,720 --> 00:45:14,360
-I just finished making
-a piece of furniture,
+Je viens juste de finir
+de fabriquer un meuble,
 
 787
 00:45:14,360 --> 00:45:19,160
-I made a bed with a piece of wood that
-I'd carried around for about 25 years.
+J'ai fait un lit avec une pièce de bois que
+j'ai gardé pendant environ 25 ans.
 
 788
 00:45:19,160 --> 00:45:20,840
-Sometimes the wood just sits
-there for a while
+Des fois, le bois reste là
+pendant pas mal de temps
 
 789
 00:45:20,840 --> 00:45:23,880
-and then I eventually figure out
-what I'm going to do with it.
+et après, il arrive que je trouve
+ce que je vais en faire.
 
 790
 00:45:23,880 --> 00:45:28,680
-Right now I'm working on a table
-using the five axis Router
+Là je travaille sur une table
+en utilisant une fraiseuse 5 axes
 
 791
 00:45:28,680 --> 00:45:31,520
-to carve some sculptural components.
+pour sculpter certains éléments.
 
 792
 00:45:31,520 --> 00:45:34,520
-These are some planks
-that are glued up to do that.
+Il y a des planches
+qui sont collées ensemble pour ça.
 
 793
 00:45:35,520 --> 00:45:37,080
-Here's another design
-that I'm working on,
+Voilà un autre design
+sur lequel je travaille,
 
 794
 00:45:37,080 --> 00:45:39,200
-this is a little 3D print,
+c'est une petite pièce imprimée en 3D,
 
 795
 00:45:39,200 --> 00:45:43,360
-been using that a lot lately,
-of a chair that we're going to make.
+j'ai beaucoup fait ça récemment,
+pour une chaise qu'on est en train de faire.
 
 796
 00:45:43,360 --> 00:45:45,160
-So the chair
-will look something like this
+Donc, la chaise va ressembler
+à quelque-chose comme ça
 
 797
 00:45:45,160 --> 00:45:48,480
-and here's the first – here's a,
+voilà le premier, enfin,
 
 798
 00:45:48,480 --> 00:45:51,280
-one of the first tests
-that are being metaled –
+l'un des premiers tests
+qui a été rendu réel –
 
 799
 00:45:51,280 --> 00:45:53,240
- this just started as a big blank,
+ça a commencé avec une grosse planche,
 
 800
 00:45:53,240 --> 00:45:55,440
-use the CNC router to do it.
+sur laquelle on a utilisé la fraiseuse.
 
 801
 00:45:55,440 --> 00:45:57,400
